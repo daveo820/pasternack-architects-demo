@@ -48,7 +48,7 @@ section{padding:clamp(3.5rem,8vw,6.5rem) 0}
 .other ul{list-style:none;padding:0;margin:0;display:grid;gap:.75rem}.other li{display:flex;gap:.8rem;align-items:baseline}.other .dim{color:var(--terra)}
 .developing{background:var(--blueprint);color:#d9e2ec;--head:#fff}
 .dev-grid{display:grid;grid-template-columns:1fr 1fr;gap:1.25rem;margin:1.5rem 0}
-.dev-grid figure{margin:0}.dev-grid img{background:#fff;border:.75rem solid #fff;box-sizing:content-box;max-width:calc(100% - 1.5rem)}.dev-grid figcaption{font-size:15px;padding-top:.5rem}.dev-grid b{display:block;color:#fff}
+.dev-grid figure{margin:0}.dev-grid img{background:#fff;outline:.75rem solid #fff;margin:.75rem;width:calc(100% - 1.5rem)}.dev-grid figcaption{font-size:15px;padding-top:.5rem}.dev-grid b{display:block;color:#fff}
 .dev-list{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:1fr 1fr;gap:1rem}.dev-list li{border:1px solid rgba(255,255,255,.25);padding:1rem}.dev-list b{display:block;font:800 1.3rem var(--display);text-transform:uppercase;color:var(--sand)}
 @media (max-width:700px){.dev-grid,.dev-list{grid-template-columns:1fr}}
 .sv-grid{display:grid;grid-template-columns:1fr 1fr;gap:3rem}
