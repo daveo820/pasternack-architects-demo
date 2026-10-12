@@ -89,7 +89,7 @@ page('firm.html','About the Firm: Irwin G. Pasternack, AIA + Associates, Phoenix
  'Founded in 1975 on quality design and documentation and personal attention. Meet Irwin Pasternack, AIA, NCARB certificate holder, and the team in Phoenix today.', f'''
 <section class="page-head"><div class="wrap"><p class="kicker rv">{DIM} The firm</p><h1 class="rv">Personal attention, prompt production, since 1975.</h1>
 <p class="lede rv">The firm was founded on quality design and construction documentation, personal attention and prompt, thorough production of architectural services.</p></div></section>
-<section class="irwin"><div class="wrap ir-grid"><div class="ph-portrait rv" role="img" aria-label="Placeholder for a portrait of Irwin Pasternack"><span>Portrait of Irwin<br>(on the current site)</span></div>
+<section class="irwin"><div class="wrap ir-grid"><div class="ph-portrait rv" role="img" aria-label="Placeholder for a portrait of Irwin Pasternack"><span>Portrait of Irwin <br>(on the current site)</span></div>
 <div class="rv"><h2>Irwin G. Pasternack, AIA</h2><p>A registered architect in ten states: Arizona, California, Colorado, Iowa, Montana, Nevada, New Mexico, Oklahoma, Texas and Wyoming, with a National Registration from NCARB.</p>
 <p>And a proud member of the Society of American Magicians and the International Brotherhood of Magicians.</p>
 <details><summary>Professional affiliations</summary><ul>{''.join(f'<li>{o}</li>' for o in ORGS)}</ul></details></div></div></section>
