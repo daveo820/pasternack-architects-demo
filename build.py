@@ -13,7 +13,7 @@ CFG.update(base=BASE,name='Irwin G. Pasternack, AIA + Associates',theme='#142a40
  icon="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23142a40'/%3E%3Ctext x='16' y='23' font-family='Impact' font-size='17' text-anchor='middle' fill='%23c8a27a'%3EIGP%3C/text%3E%3C/svg%3E",
  bar='Not the official Pasternack site. Every fact and photo comes from pasternackarchitects.com and is used for this pitch only.',
  nav=[('work.html','Work'),('services.html','Services'),('firm.html','The firm'),('contact.html','Contact')],
- mark='<a class="mark" href="index.html" aria-label="Irwin G. Pasternack, AIA + Associates home"><span class="igp" aria-hidden="true">IGP</span><span class="mk-t"><b>Pasternack</b><small>AIA + Associates &middot; Phoenix</small></span></a>',
+ mark='<a class="mark" href="index.html"><span class="igp" aria-hidden="true">IGP</span><span class="mk-t"><b>Pasternack</b><small>AIA + Associates &middot; Phoenix</small></span></a>',
  cta='<a class="btn" href="contact.html">Discuss a project</a>',
  foot=f'''<footer class="foot"><div class="wrap">
 <div class="titleblock"><div class="tb-cell big"><span>Project</span><b>Yours, next.</b></div><div class="tb-cell"><span>Firm</span>Irwin G. Pasternack, AIA + Associates, PC</div><div class="tb-cell"><span>Office</span>745 East Maryland Avenue, Suite 100<br>Phoenix, AZ 85014</div><div class="tb-cell"><span>Call</span><a href="tel:{TEL}">{TEL_H}</a><br>Fax (602) 277&#8209;5978</div><div class="tb-cell"><span>Email</span><a href="mailto:{MAIL}">{MAIL}</a></div><div class="tb-cell"><span>Hours</span>Mon to Fri, 8am to 5pm</div><div class="tb-cell"><span>Sheet</span>Since 1975</div></div>
